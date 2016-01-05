@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventorysystem", "inventorysystem\inventorysystem.csproj", "{48C20381-7BC4-485B-B740-C3491E51F3A1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{95FC3D8C-1158-489B-AD92-D697E5A769EC} = {95FC3D8C-1158-489B-AD92-D697E5A769EC}
+		{49BFD9B4-F0DF-46BE-A3F5-CD339C43706E} = {49BFD9B4-F0DF-46BE-A3F5-CD339C43706E}
+		{913C6CDC-89BC-46CD-9604-DE6F03466C91} = {913C6CDC-89BC-46CD-9604-DE6F03466C91}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventorysystem.Tests", "inventorysystem.Tests\inventorysystem.Tests.csproj", "{9EC18330-A802-4489-AC1F-344C0B929523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.BusinessObjects", "EMS.BusinessObjects\EMS.BusinessObjects.csproj", "{49BFD9B4-F0DF-46BE-A3F5-CD339C43706E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Core", "ems.core\EMS.Core.csproj", "{913C6CDC-89BC-46CD-9604-DE6F03466C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Services", "ems.services\EMS.Services.csproj", "{95FC3D8C-1158-489B-AD92-D697E5A769EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C20381-7BC4-485B-B740-C3491E51F3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C20381-7BC4-485B-B740-C3491E51F3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C20381-7BC4-485B-B740-C3491E51F3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C20381-7BC4-485B-B740-C3491E51F3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC18330-A802-4489-AC1F-344C0B929523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC18330-A802-4489-AC1F-344C0B929523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC18330-A802-4489-AC1F-344C0B929523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC18330-A802-4489-AC1F-344C0B929523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BFD9B4-F0DF-46BE-A3F5-CD339C43706E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BFD9B4-F0DF-46BE-A3F5-CD339C43706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BFD9B4-F0DF-46BE-A3F5-CD339C43706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BFD9B4-F0DF-46BE-A3F5-CD339C43706E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913C6CDC-89BC-46CD-9604-DE6F03466C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913C6CDC-89BC-46CD-9604-DE6F03466C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913C6CDC-89BC-46CD-9604-DE6F03466C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913C6CDC-89BC-46CD-9604-DE6F03466C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FC3D8C-1158-489B-AD92-D697E5A769EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FC3D8C-1158-489B-AD92-D697E5A769EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FC3D8C-1158-489B-AD92-D697E5A769EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FC3D8C-1158-489B-AD92-D697E5A769EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

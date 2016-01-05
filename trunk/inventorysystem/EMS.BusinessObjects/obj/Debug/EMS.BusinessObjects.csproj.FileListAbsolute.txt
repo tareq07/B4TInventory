@@ -1,0 +1,14 @@
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\bin\Debug\EMS.BusinessObjects.dll
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\bin\Debug\EMS.BusinessObjects.pdb
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\bin\Debug\EMS.Core.dll
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\bin\Debug\EMS.Core.pdb
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\obj\Debug\EMS.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\obj\Debug\EMS.BusinessObjects.dll
+E:\Dropbox\SAI\AFIF\SAIWEB\07-09-2015\EMS.BusinessObjects\obj\Debug\EMS.BusinessObjects.pdb
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\bin\Debug\EMS.BusinessObjects.dll
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\bin\Debug\EMS.BusinessObjects.pdb
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\bin\Debug\EMS.Core.dll
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\bin\Debug\EMS.Core.pdb
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\obj\Debug\EMS.BusinessObjects.csprojResolveAssemblyReference.cache
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\obj\Debug\EMS.BusinessObjects.dll
+H:\Projects\Inventory\mvc5\trunk\inventorysystem\EMS.BusinessObjects\obj\Debug\EMS.BusinessObjects.pdb
